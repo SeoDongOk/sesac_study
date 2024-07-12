@@ -18,7 +18,7 @@
 1. Local 브랜치를 생성한다.(이름 자유)
 
 ```bash
-git checkout -b dev_sdo_local
+git checkout -b dev_sdo
 ```
 
 2. 개인 Remote 브랜치를 생성한다.(이름: dev\_초성 ex: dev_sdo)
